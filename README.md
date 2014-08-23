@@ -1,7 +1,7 @@
 Logparser
 =========
 
-A simple Log4J parser - usefull throw-away code
+A simple Log4J parser - useful throw-away code
 
 It was started for two reasons:
 
